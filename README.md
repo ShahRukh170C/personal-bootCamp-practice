@@ -1,2 +1,2 @@
 # personal-bootCamp-practice
-games
+Create the Html file for the test
